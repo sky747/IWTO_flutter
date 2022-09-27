@@ -42,7 +42,7 @@ List<Widget> makeItems() {
     )),
     const Card(
         child: ListTile(
-      title: Text('今村大輝(仙台第三高校) - 山田晃(仙台第三高校)'),
+      title: Text('今村大輝(仙台第三高校) - 山田晃平(仙台第三高校)'),
     )),
     const Padding(padding: EdgeInsets.all(10)),
     const Card(
