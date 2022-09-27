@@ -33,7 +33,7 @@ List<Widget> makeItems() {
     )),
     const Card(
         child: ListTile(
-      title: Text('今野倫瑠(仙台第三高校) - 川口駿(仙台第三高校)'),
+      title: Text('今野倫瑠(仙台第三高校) - 川口駿也(仙台第三高校)'),
     )),
     const Padding(padding: EdgeInsets.all(10)),
     const Card(
