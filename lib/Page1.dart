@@ -40,6 +40,10 @@ List<Widget> makeItems() {
         child: ListTile(
       title: Text('2R'),
     )),
+    const Card(
+        child: ListTile(
+      title: Text('今村大輝(仙台第三高校) - 山田晃平(仙台第三高校)'),
+    )),
     const Padding(padding: EdgeInsets.all(10)),
     const Card(
         child: ListTile(
