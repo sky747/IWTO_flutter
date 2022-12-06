@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369665744856",
+    "firebase_url": "https://myapp-28179-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myapp-28179",
+    "storage_bucket": "myapp-28179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369665744856:android:09af927f5d33419d831cad",
+        "android_client_info": {
+          "package_name": "com.myapp.tennis2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369665744856-ch2kptr6dkm9go0p3o1jverhksblq9ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFnk6s1w-XwU1P6EOguF-17bUlJbB3NuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369665744856-ch2kptr6dkm9go0p3o1jverhksblq9ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
